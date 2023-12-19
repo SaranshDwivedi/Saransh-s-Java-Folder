@@ -1,6 +1,5 @@
 import java.util.Scanner;
-public class PAlindrom11 {
-	
+
 
 	class Fibionacci 
 	{
@@ -19,8 +18,7 @@ public class PAlindrom11 {
 				b = c;
 			}
 			
-			//System.out.println("Hello World!");
+		//	System.out.println("Hello World!");
 		}
 	}
 
-}
